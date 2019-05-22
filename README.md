@@ -1,1 +1,1 @@
-# Minimum-Steiner-Trees
+# Minimum Steiner Trees

@@ -88,3 +88,9 @@ The proposed techniques based on 3-chains can have importance in basically all a
 Clearly, the computational cost of the scheme is dominated by the inversion: γ−1i−1=γ2m−2i−1.
 
 Eichenauer-Herrmann and Niederreiter proposed using GF(2m) with an optimal normal basis such that m is reasonably close to a power of two. The suggested m are collected in Table 6together with the costs of inversions using IT that was suggested in [24] and an optimal 3-chain. Clearly, using optimal 3-chains and HD multipliers would allow significant reductions (between 17-50  percent) in the latency of the PRNG scheme introduced.
+
+1) sample paper for references, sections and subsections https://arxiv.org/pdf/1504.05140.pdf
+
+In Section 1, you introduce the topics and mention what you cover in the subsequent sections and sub-sections.
+
+Don’t copy and paste others’ theorems, proofs, results etc.
